@@ -5,4 +5,6 @@ categories:
 feature_image: "https://media-exp1.licdn.com/dms/image/C4E35AQEtLCCtyOp3fw/profile-framedphoto-shrink_800_800/0/1600731103435?e=1619377200&v=beta&t=BO82XJZhMMM4pc1q_O5qf9qS7b3bb0eeIFWtkwrz09U"
 ---
 
-This is the first coding blog post in the steed family (probably). Look at my old baby face as a little college freshman.
+This is the first family history blog post. Look at my old baby face as a little college freshman.
+
+I'm making this blog because I think I should write for myself and for my future family about my ancestors. There are a lot of stories of theirs that have greatly influenced and effected everything I do. 
