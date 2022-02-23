@@ -1,4 +1,4 @@
-# template-blog-individual
+# template-blog-individual-test
 To use this template, click the button, and make sure you check the button that says "Include all branches", so that you get the gh-pages branch.
 
 You also need to make sure you are making it in the right account. If you want it in your own account or in intersteed, make sure to specify.
